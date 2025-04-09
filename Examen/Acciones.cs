@@ -15,6 +15,7 @@ namespace Examen
             new Nintendo (203,"Liah",DateTime.Today,false,"Blanco"),
             new Nintendo (665,"Zara",DateTime.Today,false,"Blanco"),
             new Nintendo (285,"Erick",DateTime.Today,true,"Verde"),
+            new Nintendo (245,"Kia",DateTime.Today,true,"Amarillo"),
 
         };
         Nintendo n = new Nintendo();
